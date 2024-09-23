@@ -2211,9 +2211,6 @@ input, select, textarea {
 	#intro {
 		text-align: center;
 		overflow: hidden;
-		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
-		padding: 4em 0 4em 0;
 	}
 
 		#intro section {
