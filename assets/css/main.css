@@ -2174,7 +2174,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #000000 url("../../images/pointcloud.png");
+		background: #0F1317 url("../../images/pointcloud.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
